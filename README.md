@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mfaizal7
 - 👀 I’m interested in data analytics and coding. 
-- 🌱 I’m currently learning data analytics tools, which is SQL, Tableau and python. 
+- 🌱 I’m currently learning data analytics tools, which is SQL, Tableau, Power BI and python. 
 - 💞️ I’m looking to learning more about data analytics, coding and other tools for data analytics. 
 - 📫 How to reach me @ faizalzaal@gmail.com
 
